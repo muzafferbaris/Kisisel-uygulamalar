@@ -1,2 +1,2 @@
 # python
-Amaç python ile ilgili notlarımın bulunduğu bir kütüphane oluşturmak.
+Python ile uygulamalar geliştirme ve not alma
