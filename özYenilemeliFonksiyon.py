@@ -21,7 +21,7 @@ class Azal():
         #eğer şifre küçükse 8'den 
         if len(self.gelen) < 8:
             # kullanıcıyı uyardık.
-            print("Şifre en az beş karakterden oluşmalıdır.")
+            print("Şifre en az 8 karakterden oluşmalıdır.")
             #ve sorgu isimli örnekleme methodunu çalıştırdık.
             self.sorgu()
         else:
