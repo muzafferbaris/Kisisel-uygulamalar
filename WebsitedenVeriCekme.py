@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 #işlem yapılacak site adresi
 url = "https://belgeler.yazbel.com/python-istihza/print.html"
 
-#web sayfasınındaki bütün bilgileri çekiyoruz.
+#web sayfasındaki bütün bilgileri çekiyoruz.
 tümicerik = requests.get(url)
 
 #sayfanın html dökümanını alıyoruz.
